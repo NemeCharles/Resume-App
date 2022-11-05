@@ -12,9 +12,13 @@ The code base used for the application id Dart. It is an object-oriented languag
 ## Libraries used
 
 URL launcher: This is a package that allow you to add plugins in applications. I used this to link my various social media pages to their respective handles that were contained in the application.
+
 Get Storage: It is a storage library which was used in the application to store a bool value of my theme mode for the purpose of toggling the themes without issues.
+
 Font Awesome: A library which contains various beautiful icons which a few of them were used in my application.
+
 Get: A flutter state management package.
+
 
 I would have loved to add a language picker function to the application so users can have the option to pick various languages of their liking.
 
